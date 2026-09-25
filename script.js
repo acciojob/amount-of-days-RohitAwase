@@ -7,7 +7,8 @@ functio daysOfAYear(year){
 	}
 }
 
-
+let value = prompt("Enter the Year.");
+alert(daysOfAYear(value));
 
 
 
